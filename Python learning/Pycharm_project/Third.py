@@ -11,13 +11,11 @@ c = "Note: " + c
 d = datetime.datetime.now()
 fp = open(r'Test_internal.txt', 'a+')
 print(a, b, "\n", c, "\n", d, file=fp)
-print("的降幅较大发阿婆为飞机"
-      "安居客都放假哦是放假啊送到就立刻"
-      "发我去借钱问题")
 print(chr(38))
 fp.close()
 
 '''
-所以说都是注释惹的祸
-中文 VS 英文
+就是
+添加点
+备注
 '''
