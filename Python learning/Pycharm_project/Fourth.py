@@ -34,11 +34,4 @@ import keyword
 #
 # print("三者之和为：", int(a) + int(b) + int(c))
 
-Sequence = ["su", 123, "hong"]
-
-print(Sequence[])
-
-
-
-
 
