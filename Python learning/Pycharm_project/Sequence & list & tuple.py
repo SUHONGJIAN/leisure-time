@@ -39,7 +39,16 @@ Tuple
 
 shj = (1, ["sjh", "faw"], 3, 4, 5)
 jhs = [32, 14, [42, 632, 2], (34, 25, 63)]
+su = "@$wjsjs,dfa,gawetq.gsadf.ag,sa.GSDG..."
 print(type(shj))
 print(len(shj))
 print(shj)
 print(jhs)
+print(su.count("sa"))
+print(su.split("."))
+print(su.find("sa"))
+print(su.upper())
+print(su.lower())
+print(su.strip("@$."))
+
+
